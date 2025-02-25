@@ -36,9 +36,8 @@ This project requires an API key from Google Generative AI for medicine suggesti
 -Generate an API key.
 -Open main.py and replace 'your api key here' with your actual API key.
 
-
-🚀 How to Run the Project
-🖼️ Running main.py (Prescription Processing & Medicine Recommendation)
+## **🚀 How to Run the Project** 
+**🖼️ Running main.py (Prescription Processing & Medicine Recommendation)**
 Run this in terminal: 
 python main.py
 
@@ -54,7 +53,7 @@ It checks availability and suggests alternatives if needed.
 
 A final order with total cost is generated.
 
-🩺 Running symptom.py (Symptom-Based Diagnosis)
+**🩺 Running symptom.py (Symptom-Based Diagnosis)**
 python symptom.py
 Enter your symptoms when prompted.
 The system diagnoses possible medical conditions.
@@ -65,14 +64,14 @@ It suggests the most suitable medicines.
 ![Screenshot 2025-02-26 012815](https://github.com/user-attachments/assets/0a7aa994-592e-49c2-9b7b-f93adc81ac55)
 
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 Python (Core programming language)
 Tkinter (GUI for user interaction)
 Pandas (Data handling for medicines)
 PIL (Pillow) (Image processing)
 Google Generative AI (Medicine recommendations)
 
-🤝 Contributing
+**🤝 Contributing**
 Feel free to fork this repository, create a new branch, and submit pull requests for improvements!
 
-🌟 Star this repo if you find it useful! ⭐
+**🌟 Star this repo if you find it useful! ⭐**
