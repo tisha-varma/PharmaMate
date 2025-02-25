@@ -1,0 +1,69 @@
+name,expiry date,stock,frequency,special instructions,price
+Amoxicillin,2025-06-30,120,3 times daily,Take with food,150
+Acetaminophen,2025-06-30,120,3 times daily,Take with food,150
+Lisinopril,2025-09-15,90,Once daily,Take in the morning,200
+Atorvastatin,2025-07-22,60,Once daily,Take at bedtime,180
+Metformin,2025-10-10,150,Twice daily,Take with meals,250
+Paracetamol,2025-05-18,200,As needed,Max 4 tablets per day,50
+Ibuprofen,2025-08-05,100,3-4 times daily,Take with food,120
+Omeprazole,2024-12-31,30,Once daily,Take before breakfast,90
+Simvastatin,2025-04-02,45,Once daily,Take in the evening,170
+Losartan,2025-11-20,60,Once daily,Consistent timing daily,160
+Amlodipine,2025-10-15,80,Once daily,Can cause swollen ankles,140
+Cephalexin,2025-05-25,70,4 times daily,Complete full course,200
+Azithromycin,2025-07-18,40,Once daily,Take 1 hour before food,220
+Levothyroxine,2025-09-30,110,Once daily,Take on empty stomach,180
+Alprazolam,2025-03-15,25,As directed,May cause drowsiness,300
+Ticlopidine,2025-08-28,50,Twice daily,Take with food,250
+Clopidogrel,2025-09-05,75,Once daily,Take with water,270
+Warfarin,2025-12-12,40,Once daily,Take at the same time daily,290
+Rosuvastatin,2025-06-22,55,Once daily,Avoid grapefruit,200
+Doxycycline,2025-07-01,60,Once daily,Avoid dairy,220
+Ciprofloxacin,2025-08-10,45,Twice daily,Drink plenty of water,240
+Fluconazole,2025-09-30,35,Once daily,Take with or without food,180
+Cetirizine,2025-05-12,100,Once daily,May cause drowsiness,80
+Loratadine,2025-06-18,120,Once daily,Non-drowsy,90
+Ranitidine,2025-07-30,130,Twice daily,Take before meals,100
+Famotidine,2025-08-21,90,Once daily,Take before bedtime,110
+Pantoprazole,2025-09-14,85,Once daily,Take on an empty stomach,130
+Esomeprazole,2025-10-05,75,Once daily,Take with water,140
+Hydrochlorothiazide,2025-10-25,95,Once daily,Take in the morning,150
+Furosemide,2025-11-15,70,Once daily,Take in the morning,160
+Spironolactone,2025-12-01,60,Once daily,Take with food,170
+Dexamethasone,2025-12-22,50,Once daily,Follow doctor’s advice,200
+Prednisone,2026-01-05,55,Once daily,Take with food,220
+Methylprednisolone,2026-02-18,45,Once daily,Take in the morning,250
+Hydrocortisone,2026-03-10,40,Once daily,Use as directed,260
+Salbutamol,2025-07-10,90,As needed,For asthma relief,140
+Theophylline,2025-08-22,65,Twice daily,Avoid caffeine,190
+Montelukast,2025-09-14,80,Once daily,Take in the evening,200
+Budesonide,2025-10-05,55,Once daily,Use inhaler properly,230
+Fluticasone,2025-11-15,70,Once daily,For allergy relief,240
+Salmetrol,2025-12-05,60,Once daily,Shake well before use,250
+Ipratropium,2026-01-15,50,3 times daily,Use inhaler properly,270
+Tiotropium,2026-02-28,40,Once daily,For long-term asthma control,280
+Metoprolol,2025-07-12,90,Once daily,Take with food,150
+Propranolol,2025-08-30,80,Twice daily,Avoid alcohol,180
+Atenolol,2025-09-25,70,Once daily,Take at the same time daily,190
+Carvedilol,2025-10-20,60,Twice daily,Take with food,200
+Bisoprolol,2025-11-15,55,Once daily,Do not stop suddenly,220
+Labetalol,2025-12-05,45,3 times daily,May cause dizziness,250
+Diltiazem,2026-01-10,50,Twice daily,Take with food,260
+Verapamil,2026-02-22,40,Once daily,Avoid grapefruit,270
+Nifedipine,2026-03-12,35,Twice daily,Take with food,280
+Clonidine,2025-07-05,75,Twice daily,May cause drowsiness,150
+Methyldopa,2025-08-15,65,3 times daily,Take with food,180
+Prazosin,2025-09-22,55,Twice daily,May cause dizziness,200
+Terazosin,2025-10-28,50,Once daily,Take at bedtime,210
+Doxazosin,2025-11-18,45,Once daily,May cause dizziness,220
+Enalapril,2025-12-22,40,Once daily,Take with water,250
+Ramipril,2026-01-30,35,Once daily,Take in the morning,260
+Perindopril,2026-02-25,30,Once daily,Take before food,270
+Captopril,2026-03-15,25,3 times daily,Take on an empty stomach,280
+Valsartan,2025-07-20,70,Once daily,Avoid potassium supplements,200
+Olmesartan,2025-08-14,65,Once daily,Take with water,210
+Telmisartan,2025-09-10,55,Once daily,Consistent timing daily,230
+Irbesartan,2025-10-08,50,Once daily,Avoid alcohol,240
+Candesartan,2025-11-30,45,Once daily,Take with water,250
+Losartan,2025-12-20,40,Once daily,Take at the same time daily,260
+Eprosartan,2026-01-15,35,Once daily,Avoid excessive salt,270

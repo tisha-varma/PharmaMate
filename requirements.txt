@@ -1,0 +1,4 @@
+tkinter==8.6
+Pillow==8.2.0
+pandas==1.2.3
+google-generativeai==0.3.1
